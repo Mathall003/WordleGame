@@ -1,0 +1,15 @@
+### VisualStudioCode ###
+.vscode/*
+
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+# ignore bin & obj
+bin/
+obj/
+
+# ignore cspoj files
+*.cspoj
