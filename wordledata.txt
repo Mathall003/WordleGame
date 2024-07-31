@@ -1,0 +1,10 @@
+Username: Marshall
+gamesPlayed: 5
+averageScore: 5.2
+gamesWon: 5
+GamesLost: 0
+Username: Harlan
+gamesPlayed: 1
+averageScore: 4
+gamesWon: 1
+GamesLost: 0
